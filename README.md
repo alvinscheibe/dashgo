@@ -11,6 +11,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 * Apex Charts
 * React Hook Form
 * Yup
+* Axios
+* React Query
 
 ### Getting Started
 
